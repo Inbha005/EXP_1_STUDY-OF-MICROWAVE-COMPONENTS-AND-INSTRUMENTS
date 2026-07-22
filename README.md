@@ -117,6 +117,7 @@ E Plane Tee H Plane Tee
 13. Matched Termination :These are used for terminating the waveguide 
 systems operating at low average power and are designed to absorball the applied power assuring low SWR. Where a matched load is required as in the measurement of reflection, discontinuities of obstacle in waveguide systems, these components are used. These are also employed as a precise reference loads with tee junctions, directional couplers etc.
 <img width="334" height="319" alt="image" src="https://github.com/user-attachments/assets/50565608-983d-4f3d-9270-0653a5361048" />
+
 14. W/g Coaxial Adaptor: 
 These adapters consist of a short section of waveguide with aprobe transition coax mounted on broad wall. It transformswaveguides impedance into coaxial impedance. Power can be transmitted in either direction. Each adaptor covers 50% of the waveguide band.
 <img width="343" height="333" alt="image" src="https://github.com/user-attachments/assets/5ada08e9-8e37-4a63-b995-22aaa256577c" />
@@ -125,8 +126,6 @@ Objectives:
 1. Note relevant Technical specifications of the instruments. 
 2. Study position and functions of the front panel controls of the equipment. 3. Know basic principle of operation and functional block diagram of the instrument. 4. Facilities provided and limitations of the equipment if any. 
 5. Know initial settings of controls of the equipments before switching on the supply. 6. Precautions to be taken while carrying out the measurements. 
-
-
 
 Conclusions:
 Thus,the experiment is studied and verified

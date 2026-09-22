@@ -7,6 +7,7 @@ Klystron power supply, Gunn power supply, VSWR meter, power meter, Slotted secti
 Theory 	
 Components/Devices: 
 Attenuator, circulator, Isolator, Waveguide twist, Magic Tee, E plane, H plane Tee, Directional coupler, Matched termination, PIN modulator, Crystal detector, Reflex klystron tube, Gunn diode, different types of antennas available. 
+
 LIST OF EQUIPMENTS AND DEVICES TO BE STUDIED: 
 1. Klystron Power Supply 
 2. Klystron tube 
@@ -23,7 +24,8 @@ LIST OF EQUIPMENTS AND DEVICES TO BE STUDIED:
 13. Matched Termination 
 14. Waveguide to coaxial adapter
 
-INTRODUCTION :A microwave test bench is an assembly of various microwave components, held together  by Nuts& Bolts. It consists of a microwave source (Oscillator) at one end. The waves generated  are led down by a wave guide through various components, so that the student can observe the propagation of waves, and their interaction and/or processing by various components. 
+INTRODUCTION :
+A microwave test bench is an assembly of various microwave components, held together  by Nuts& Bolts. It consists of a microwave source (Oscillator) at one end. The waves generated  are led down by a wave guide through various components, so that the student can observe the propagation of waves, and their interaction and/or processing by various components. 
 1.Klystron Power Supply:Klystron Power supply is a regulated power supply for operating low power klystron. Klystron power supply generates voltage required for driving the reflex klystron tubes like 2k25, 2k56, 2k22. It is absolutely stable, regulated and short circuit protected power supply. It has the facility to vary the Beam Voltage continuously and built in facility of square wave and saw tooth generators, for amplitude and frequency modulation. 
 
 <img width="250" height="195" alt="image" src="https://github.com/user-attachments/assets/646cc3e7-cb50-4486-8da1-978b67df2fba" />
@@ -145,6 +147,7 @@ Objectives:
 5. Know initial settings of controls of the equipments before switching on the supply. 6. Precautions to be taken while carrying out the measurements. 
 
 Conclusions:
+
 Thus,the experiment is studied and verified
 
 

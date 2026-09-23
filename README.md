@@ -1,7 +1,7 @@
                                                             EXPERIMENT NO: 01 
                                                STUDY OF MICROWAVE COMPONENTS AND INSTRUMENTS 
 Aim: 
-To become familiar with microwave components and instruments available in the laboratory. 
+To become familiar with microwave components and instruments available in the laboratory.
 Apparatus Used: 
 Klystron power supply, Gunn power supply, VSWR meter, power meter, Slotted section, Frequency/wave meter, RF Generator, Vector Network Analyzer. 
 Theory 	
